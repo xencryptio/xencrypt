@@ -64,9 +64,7 @@ return (
         <button onClick={() => scrollToSection('solutions')} className="text-sm font-medium transition-colors hover:text-fuchsia-600">
           Solutions
         </button>
-        <button onClick={() => scrollToSection('pricing')} className="text-sm font-medium transition-colors hover:text-fuchsia-600">
-          Pricing
-        </button>
+        
         <button onClick={() => scrollToSection('about')} className="text-sm font-medium transition-colors hover:text-fuchsia-600">
           About
         </button>
